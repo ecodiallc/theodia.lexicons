@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "updatedAt": "2026-11-15T00:00:00.000Z",
+  "packages": [
+    {
+      "id": "bdb",
+      "type": "lexicon",
+      "path": "BDB.lexicon.zip",
+      "name": "Brown-Driver-Briggs",
+      "description": "The Brown-Driver-Briggs Hebrew and English Lexicon, unabridged, with Hebrew entries keyed to their Strong's numbers.",
+      "author": "Francis Brown, S. R. Driver, and Charles A. Briggs",
+      "language": "he",
+      "tags": ["lexicon", "hebrew", "old-testament", "strongs"],
+      "version": "1.0.0",
+      "size": 15471139
+    },
+    {
+      "id": "lsj",
+      "type": "lexicon",
+      "path": "LSJ.lexicon.zip",
+      "name": "Liddell-Scott-Jones",
+      "description": "The Liddell-Scott-Jones Greek-English Lexicon, unabridged, with Greek entries keyed to their Strong's numbers.",
+      "author": "Henry George Liddell and Robert Scott",
+      "language": "el",
+      "tags": ["lexicon", "greek", "classical-greek", "strongs"],
+      "version": "1.0.0",
+      "size": 4848208
+    },
+    {
+      "id": "thayer",
+      "type": "lexicon",
+      "path": "Thayer.lexicon.zip",
+      "name": "Thayer's Greek Lexicon",
+      "description": "Thayer's Greek-English Lexicon of the New Testament, with Greek entries keyed to their Strong's numbers.",
+      "author": "Joseph Henry Thayer",
+      "language": "el",
+      "tags": ["lexicon", "greek", "new-testament", "strongs"],
+      "version": "1.0.0",
+      "size": 3009804
+    },
+    {
+      "id": "theodia",
+      "type": "lexicon",
+      "path": "Theodia.lexicon.zip",
+      "name": "Theodia",
+      "description": "Theodia's own lexicon: generated entries summarizing the senses, morphology, and usage of each Strong's number, with linked scripture references and cross-references to related words.",
+      "author": "Theodia Team",
+      "language": "he",
+      "tags": ["lexicon", "hebrew", "greek", "strongs", "generated"],
+      "version": "1.0.0",
+      "size": 2391416
+    }
+  ]
+}
