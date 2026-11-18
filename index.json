@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-15T00:00:00.000Z",
+  "updatedAt": "2026-11-18T00:00:00.000Z",
   "packages": [
     {
       "id": "bdb",
@@ -48,7 +48,7 @@
       "language": "he",
       "tags": ["lexicon", "hebrew", "greek", "strongs", "generated"],
       "version": "1.0.0",
-      "size": 2391416
+      "size": 15225136
     }
   ]
 }
